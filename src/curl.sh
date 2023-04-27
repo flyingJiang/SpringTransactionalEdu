@@ -1,0 +1,1 @@
+curl --location 'http://localhost:8080/v1/user/program/method2?username=username1test2'
